@@ -18,8 +18,6 @@ DEBUG=False
 seed()
 word_limit=0
 time_limit=0
-spaceman_lvl=0
-spaceman_exp=0
 
 #Console colors
 #==============
@@ -41,11 +39,11 @@ colors["reset"]="\u001b[0m"
 
 system("color")
 
+#Print colored text
 def printc(msg,color):
     print(colors[color]+msg+colors["reset"],end="")
 
-#Read in words
-#=============
+#Replacements for accented Spanish letters
 replacements_1={"\\\\u":    "\u00fc",
                 "\\\\U":    "\u00dc"
                 }
@@ -65,6 +63,8 @@ replacements_2={"\\a":      "\u00e1",
                 "\\?":      "\u00bf"
                 }
                 
+#Read in words
+#=============
 words={}
 with open("vocab.txt") as f:
     for line in f.readlines():
@@ -116,6 +116,7 @@ except:
     f=open("scores.txt","wt")
     f.close()
     f=open("scores.txt")
+unmatched_words=[]
 for line in f.readlines():
     line=line.strip()
     if score_state==STATE_WORD:
@@ -124,6 +125,7 @@ for line in f.readlines():
             score_matched+=1
         else:
             score_unmatched+=1
+            unmatched_words+=[temp_word]
         score_state=STATE_SCORE_SPANISH
     elif score_state==STATE_SCORE_SPANISH:
         if temp_word in words:
@@ -139,6 +141,8 @@ for line in f.readlines():
 print(str(score_matched)+" scores loaded")
 if score_unmatched>0:
     printc(str(score_unmatched)+" scores without matching word!\n","yellow")
+    for word in unmatched_words:
+        print(" - "+word)
 f.close()
 
 #Select random word
@@ -157,7 +161,7 @@ def rand_score(which):
     #5% chance to introduce new word
     if temp_rand==0:
         return 0
-    #80% chance to practise word seen 1-3 times
+    #80% chance to practice word seen 1-3 times
     elif temp_rand<17:
         return rand_int(3)+1
     #10% chance to practice word seen 4 times
@@ -198,10 +202,6 @@ def DrawMenu():
             PrintCounts("score_english")
     print()
     print("Select a number or press q to quit")
-
-def Spaceman(amount):
-    #print(amount)
-    return
 
 def PrintCounts(which_score):
     global words
@@ -245,12 +245,10 @@ def HandleKeys(which_score,input_state):
             words[rand_spanish][which_score]+=1
             if words[rand_spanish][which_score]>SCORE_MAX:
                 words[rand_spanish][which_score]=SCORE_MAX
-            Spaceman(3)
             exit_loop=True
         elif key=='n':
             score_total+=1
             words[rand_spanish][which_score]=SCORE_RESET
-            Spaceman(-1)
             exit_loop=True
         
         if key=='q' or (limit_expired and exit_loop):
@@ -271,8 +269,9 @@ def HandleKeys(which_score,input_state):
             exit_loop=True
     return input_state
     
+#Main loop
+#=========
 DrawMenu()
-
 while True:
     if input_state==STATE_MENU:
         key=GetKey()
@@ -284,8 +283,6 @@ while True:
             rand_spanish=""
             last_word=""
             words_left=word_limit
-            spaceman_lvl=1
-            spaceman_exp=0
             #5% chance to put word seen max times back into rotation
             for k,v in words.items():
                 if v["score_spanish"]==SCORE_MAX: 
@@ -302,8 +299,6 @@ while True:
             rand_spanish=""
             last_word=""
             words_left=word_limit
-            spaceman_lvl=1
-            spaceman_exp=0
             #5% chance to put word seen max times back into rotation
             for k,v in words.items():
                 if v["score_english"]==SCORE_MAX: 
@@ -356,10 +351,13 @@ while True:
         last_word=rand_spanish
         
         rand_english=words[rand_spanish]["english"]
+        #Get all English words that match this Spanish word
         english_words=[]
-        for k,v in words.items():
-            if v["english"]==rand_english:
-                english_words+=[k]
+        #Don't show all Spanish translations if no English version present
+        if rand_english!="":
+            for k,v in words.items():
+                if v["english"]==rand_english:
+                    english_words+=[k]
         if rand_english!="":
             printc(rand_english,"green")
             if len(english_words)>1:

@@ -1,9 +1,10 @@
 el paso - step
+al paso - on the spot
 el pasito - small step
 el peso - weight
 la pesa - weight (gym)
 Ella va para Tijuana. - She's going to Tijuana.
-camino con mi perro - walk the dog
+caminar con mi perro - to walk the dog
 la mezcla - mix (dog for example)
 correr - to run
 escoger - to pick (a book)
@@ -17,7 +18,7 @@ la naturaleza - nature
 El es del estado... - He is from the state of...
 Carolina del norte - North Carolina
 Kenia - Kenya
-comenzar - to start, commence
+comenzar (a hacer) - to start, commence (to do)
 \?De qu\e se trata el audio? - What's the audio about?
 presentaciones - introducing people to each other (NOT introducciones!)
 administrador de empresas - business admin
@@ -27,7 +28,7 @@ la embajada - embassy
 \?Cual es la diferencia? - What's the difference?
 el hijo \unico - only child
 acerca de - about
-los asuntos - issues
+el asunto - issue
 el funcionario consular - consular worker (functionary)
 el estadounidense - American
 Yo trabajo como... - I work as...
@@ -56,7 +57,7 @@ barato - cheap
 Yo almorc\e... - I had for lunch...
 almorzar - to have lunch
 el almuerzo - lunch
-verduras - vegetables
+las verduras - vegetables
 la sopa - soup
 la sopa de calabaza - squash soup
 el agregado - attache
@@ -124,7 +125,7 @@ un placer - a pleasure (to meet you)
 servir (para) - to be used (for)
 Las llaves sirven para abrir la puerta. - The keys are for opening the door.
 la cartera - wallet
-guardar - to keep (money in wallet)
+guardar - to save (game), place (money in wallet)
 los tijeras - scissors
 el reloj - clock, watch
 el teclado - keyboard (for computer)
@@ -156,8 +157,8 @@ el oso - bear (animal)
 plano - flat
 la cebolla - onion
 cercano - near
-manegar - to drive
-recordar - to remember
+manejar - to drive, manage
+recordar (a) - to remember, remind (of) 
 al lado de - next to
 en cada uno - in each one
 la tradici\on - tradition
@@ -206,10 +207,10 @@ el destino - destination
 el precio - price
 razonable - reasonable (price, person)
 disfrutar de - to enjoy
-\?Que precio tiene la agua? - How much does the water cost?
+\?Que precio tiene el agua? - How much does the water cost?
 tomar - to drink, to take (a train)
 como - as (I'm going to...)
-recoger a - to pick up (from school)
+recoger - to pick up (from school)
 la cena - dinner
 el plan - plan (for vacation)
 el plano - plan (architectural but not for weekend!)
@@ -227,13 +228,13 @@ el apoyo - support
 apoyar - to support
 abastecer - to supply, provide
 el alcance - scope, extent
-profundizar - deepen
+profundizar - to deepen
 agregar - to add (to what was said)
 la fuente - source, origin
 la cumbre - summit (pol)
 tras - after, behind
-atravesar - to cross, cut across
-el monto - amount, quantity
+atravesar - to cross, cut across, go through (troubles)
+el monto - amount, quantity (of things not people)
 adem\as de - besides, also, additionally
 aparte (de) - apart from, besides
 asimismo - in addition, also, likewise
@@ -257,7 +258,7 @@ luchar (contra) - to struggle, to fight (against)
 a menudo - often
 aprobar - to approve, pass (a law), pass (a class)
 a trav\es de - across, through
-negarse - to decline
+negar - to decline
 acabar - to finish, terminate
 la palize - beating
 juzgar - to judge
@@ -346,7 +347,7 @@ la rueda - wheel
 empujar - to push
 destrozar - to break, shatter, tear apart
 la br\ujula - compass
-la vecindad - neighborhood
+la vecindad - vicinity, neighborhood  (though vecindario better)
 ofrecer - to offer
 inmobiliario - real estate (adj)
 bajo la direcci\on de - under the direction of
@@ -423,7 +424,7 @@ fomentar - to foster
 la poblaci\on - population
 tenso - tense (emotion)
 nervioso - nervous
-monitorar - to monitor
+monitorear - to monitor
 prevenir - to prevent
 estar a cargo de - to be in charge of
 la propiedad - property (physical)
@@ -466,13 +467,14 @@ el olor - scent, oder
 debido a - due to
 la ganadera - livestock
 la ganader\ia - raising livestock
+el ganadero - person working with cows
 la receta - recipe
 diariamente - daily
 la res - beef (animal itself)
 la rodaja - slice (food)
 cotidianamente - daily, quotidian
 el \ambito - scope, environment
-libertad de culto - freedom of religion
+la libertad de culto - freedom of religion
 la belleza - beauty
 reposar - to rest
 el muro - wall
@@ -483,7 +485,8 @@ el almirante - admiral
 el siglo - century
 el dominio - domain, dominion, rule
 sufrir - to suffer
-aprovechar (para) - to take advantage (of)
+aprovechar (tiempo) - to benefit, use (time)
+aprovecharse de - to take advantage of 
 sacudir - to shake, jolt, sway (train)
 la pierna - leg
 silbar - to whistle, hiss
@@ -542,14 +545,14 @@ prestar - to lend
 en t\erminos diplom\aticos - in diplomatic terms
 tener el compromiso de - to have the obligation of
 los medios - the media
-un parte clave - a key part
+una parte clave - a key part
 reconocer - to recognize
 conforme - agreeable, according
 la rodilla - knee
 estacionar - to park
 el toldo - hood (of car), tent
 sollozar - to sob
-quiz\as - perhaps, possibly
+quiz\a(s + vowel) - perhaps, possibly
 partir - depart, split, start out
 salvaje - wild
 la maldici\on - curse
@@ -586,7 +589,7 @@ capaz (de) - capable (of)
 enterarse - to find out
 arriba - up, over, above
 atrapar - to trap, catch
-comprobar - to check, make sure
+comprobar - to confirm, check, make sure
 famoso por - famous for
 tan grande como - as big as
 seg\un - according to
@@ -640,7 +643,7 @@ al rato - after a while
 el alivio - relief (feeling)
 quemar - to burn (a piece of paper)
 ocultar - to hide (something)
-colgar - to hang, hang up
+colgar - to hang (up), upload photos to Facebook
 adecuado - suitable, appropriate
 el comedor - dining room
 fallar - to fail
@@ -752,7 +755,7 @@ lento - slow
 la manifestaci\on - protest
 las obras - construction
 en coche - by car
-el cemeterio - cemetery
+el cementerio - cemetery
 la demora - delay
 el sindicato - union (of teachers)
 por - through (the streets)
@@ -762,6 +765,7 @@ la ventaja - advantage
 la desventaja - disadvantage
 el costo - cost
 costar - to cost
+le costar hacer - to have a hard time doing (like gustar)
 el garaje - garage
 El D\ia de Accion de Gracias - Thanksgiving
 el pavo - turkey
@@ -791,7 +795,8 @@ en conjunto - together with, on the whole
 apasionante - exciting (to be a teacher)
 por desgracia - unfortunately
 graduarse - to graduate
-por mi cuenta - on my own
+por mi/tu/su cuenta - on my own
+por mi/ti/si mismo - by myself
 grabar - to record
 asignar - to assign
 la estad\ia - stay
@@ -811,7 +816,8 @@ agradecido - grateful
 defraudar - to let down, defraud
 la ansiedad - anxiety
 la cobija - blanket
-descuida - don't worry
+descuidar - to neglect, abandon
+descuida - no problem, don't worry
 revisar - to look out, check out
 brincar - to hop, bounce
 agridulce - bittersweet
@@ -825,7 +831,7 @@ hallar - to find, discover
 entretener - to entertain, detain, distract
 arriesgar - to risk
 el asombro - astonishment
-enloquecer - to drive crazy
+enloquecer - to drive crazy, get mad, go wild
 la verg\\uenza - shame
 dem\as (amigos) - rest (of friends)
 la velada - evening, soiree
@@ -834,7 +840,6 @@ cautivar - to captivate
 repentino - sudden
 entristecer - to sadden, to grieve
 desechar - to discard, reject
-lidiar - to deal with
 sospechar - to suspect
 cien por cien - 100%
 el apag\on - failure, brownout
@@ -853,7 +858,7 @@ la licenciatura - Bachelor's degree
 el pasante - intern
 la remesa - remittance
 ingresar a - to enter (university)
-la carrera - college degree
+la carrera - career, race (car), ride (taxi), course of study
 la calificaci\on - grade (college)
 el pr\estamo - loan (college)
 el deportista - athlete
@@ -967,6 +972,7 @@ p\esimo - lousy, appalling (conditions)
 la realeza - royalty
 apoderarse - to seize
 rastrear - to track, trace
+desprendido - detached
 desprenderse - to come off, to break away
 congelar - to freeze
 el cometido - task, duty
@@ -1020,7 +1026,6 @@ aportar - to contribute
 el marinero - sailor
 el plantador - farmer
 la escoba - broom
-reclutar - to recruit
 brindar - to offer, present
 el matiz - nuance, shade
 emprender - to undertake, launch
@@ -1043,7 +1048,7 @@ inclinarse por - to be inclined to (prefer books)
 en parte - partly
 puesto que - since
 el cargador - charger
-el almacenamiento - the storage
+el almacenamiento - storage
 un dispositivo - device
 evitar - to avoid
 cargar - to carry
@@ -1102,12 +1107,12 @@ la cita a ciegas - blind date
 quisquilloso - fussy, cantankerous
 hartar de - to be fed up with
 la crispaci\on - tension
-tardar - to delay, be slow
+tardar - to take time (for pizza to arrive), to delay, be slow
 la predicaci\on - preaching
 la vivienda - housing
 los ahorros - savings
 por la tarde - in the afternoon
-la convocatoria - the announcement
+la convocatoria - announcement
 surgir - to arise
 garantizar - to ensure
 el desempe\no - performance
@@ -1119,9 +1124,10 @@ entorpecer - to hinder
 rondar - to haunt, prowl
 agotar - to exhaust, drain
 el azar - luck, chance
+al azar - randomly
 la amenaza (para) - threat (to)
 antemano - beforehand
-acudir - to keep, turn up
+acudir - to keep, turn up (to visit), use
 la voluntad - will
 la madurez - maturity
 la daga - dagger
@@ -1129,7 +1135,7 @@ el rayo - ray, thunderbolt
 acotar - to narrow down, limit
 sonar - to sound, ring, play
 tajante - cutting, positive
-restar - to subtract
+restar - to subtract, deduct
 sumar - to add, join (plea)
 la jactancia - boasting
 disponer - to provide, arrange
@@ -1150,7 +1156,7 @@ el lector - reader
 el equilibiro - balance
 cabe se\nalar - it should be noted
 la obra maestra - masterpiece
-el palacio - the palace
+el palacio - palace
 la profundidad - depth
 el reflejo - reflection
 el espejo - mirror
@@ -1210,7 +1216,7 @@ el desaf\io - challenge
 afrontar (desaf\ios) - to face (challenges)
 lidiar con - to deal with
 ser blanco de robos - to be a target for robberies
-el compa\nerismo - the companionship
+el compa\nerismo - companionship
 la habilidad - ability
 ciego - blind
 dibujar - to draw
@@ -1222,7 +1228,6 @@ la botella - bottle
 la elaboraci\on - production (of tequila)
 remontar - to go back, ascend
 provenir - to come from
-pasarla bien - to have a good time
 el marco - frame (of bike)
 medicina ambulatoria - home health care
 las Filipinas - the Philippines
@@ -1232,7 +1237,7 @@ el postre - dessert
 concibir - to conceive, envisage
 la carne - meat
 desplegado - displayed, unfolded
-sobreag\\ue (sobrecargar) - overloaded
+sobreag\\ue (sobreaguar) - to float/be on surface of water
 el rumbo - course, direction (of your life)
 la muleta - crutch
 la tala - cutting down (of trees)
@@ -1259,7 +1264,6 @@ ocuparse - to take care of (intl issues)
 el asesor - advisor
 el siento - seat
 someter (por) - to subject (to)
-m\as all\a - beyond
 renunciar - to resign, renounce
 comprometerse - to commit onself
 desplazado - displaced
@@ -1288,7 +1292,6 @@ la multa - fine, penalty
 asestar - to deal (a blow), land, throw
 la pu\nalada - stab
 agobiado - burdeoned
-al parecer - apparently
 atemorizar - to terrorize
 caluroso - warm (reception)
 la similitud - similarity
@@ -1300,7 +1303,6 @@ leal - loyal
 mantener a raya - to keep in line
 el atentado - attempt, assault
 sembrar - to sow (discord)
-el alcalde - mayor
 suavizar - to smooth
 el trato - treatment, deal, relationship
 desatar - to unleash
@@ -1321,7 +1323,7 @@ la pieza - piece, part
 id\oneo - suitable
 apuesto - dapper
 la sombra - shadow
-indigente - bum (better than mendigo)
+indigente - homeless (better than mendigo)
 el buque - ship, vessel
 Escocia - Scotland
 es decir - that is to say
@@ -1344,7 +1346,7 @@ rehusar - to refuse
 la presi\on - pressure
 el sudor - sweat
 azotar - to spank, whip, flail
-secuestro - seizure (of drugs), kidnapping
+el secuestro - seizure (of drugs), kidnapping
 imprescindible - essential
 el dirigente - leader
 conducir - to lead, bring, handle
@@ -1355,10 +1357,10 @@ devolver - to return (item to store)
 la falda - skirt
 gotear - to drop, leak
 mareado - dizzy
-entorno - environment (virtual)
-dar a luz - to give birth
+el entorno - environment (virtual)
+dar a luz - to give birth (people, not animals)
 el colch\on - mattress
-parir - to give birth
+parir - to give birth (animals mostly)
 estrechar - to narrow, grasp (hands)
 el porvenir - future
 la sabidur\ia - wisdom
@@ -1388,7 +1390,7 @@ justo - fair
 a su vez - at the same time
 a nivel mundial - world wide
 la oferta - offer (of services)
-asequible  - affordable
+asequible - affordable
 estimular - to stimulate
 la feria - fair (trade)
 el santuario - sanctuary (wildlife)
@@ -1396,7 +1398,7 @@ desconocido - unknown
 el adelanto - advancement
 la riqueza - wealth
 equitativo - equitable
-ya sea - either
+ya sea - either, whether it be
 a fin de cuentas - at the end of the day
 el eje - mainstay (of the economy)
 la demostraci\on - proof
@@ -1417,23 +1419,23 @@ re\ir - to laugh
 la pradera - meadow
 esmerarse - to strive
 el sueldo - salary
-el catedr\atico - professor
+el catedr\atico - professor (dept chair)
+hab\ian - always hab\ia even if plural like hubo and hay
 portar - to carry, bear
 el regocijo - joy
 en que grado - to what degree
 la zanahoria - carrot
 la lechuga - lettuce
-el aguacate -avocado
+el aguacate - avocado
 la col - cabbage
 el mojo - garlic and oil sauce
-la pasarela
+la pasarela - catwalk
 colmar - to fill
 la cuadra - block (city)
 el bullicio - bustle
 deste\nirse - to fade
 la piedad - piety
 ingenuo - naive
-la rabia - rage
 callado - quiet, reserved
 el cami\on - truck
 la finalidad - purpose
@@ -1499,7 +1501,7 @@ solucionar - to solve
 en el transcurso de - in the course of
 el decreciemiento - downturn (economic)
 estable - stable
-deer - el ciervo
+el ciervo - deer
 el ba\ul - trunk (luggage)
 suspender - to suspend
 el arancel - tariff
@@ -1526,7 +1528,6 @@ adormecido - asleep (leg)
 la gira - tour
 vespertino - evening (adj)
 ata\ud - coffin
-arrojar - to throw (trash)
 el desperdicio - trash
 la contraventana - shutter
 la garganta - throat
@@ -1536,10 +1537,9 @@ el anillo - ring
 las crisis - crises
 un/otro - never "un otro"
 mil milliones - one billion
-billion - trillion
+billon - trillion
 la pandemia - pandemic
 vacunarse - to get vaccinated
-atañer - to concern
 poner en cintura - to do what must be done
 censurable - objectionable, reprehensible
 el capital - capital (money)
@@ -1554,7 +1554,7 @@ la lobina - bass fish
 cort\es - courteous
 la caricia - pat, stroke
 compadecerse - to sympthasize
-lanzar - to throw (rocks), launch (career)
+lanzar - to throw (rocks), launch (career, food order)
 a la vez - together, at the same time (strict and nice)
 el reproductor - player (DVD)
 dar vuelta - to give back
@@ -1567,20 +1567,20 @@ la p\esame - condolence
 el chiche - toy
 escasear - to be scarce
 aconsejar - to advise
-la portada - title page
 el ahuyentadora - scarecrow
 la sentada - sitting, sit in protest
 el follet\in - newspaper serial
 la virtud - virtue
 entender ni jota - to not understand a thing
 dar su sentido p\esame - to offer sincere condolences
-manipular a - to manipulate
+manipular - to manipulate
 fluvial - fluvial (adj - river)
 patinar - to skate
 la acera - sidewalk
 inquebrantable - unwavering
 agotador - exhausting
-el preso - prisoner
+el preso - prisoner (of crime)
+el prisionero - prisoner (of war)
 el tejado - roof
 conmover - to move (emotionally), touch
 deseable - desirable
@@ -1592,7 +1592,7 @@ el extranjero - foreigner
 estos - these (right here (speaker))
 esos - those (over there (by listener))
 aquellos - those (far away (third person to speaker/listener))
-eso, esto, aquello - only pronoun
+esto, eso, aquello - only pronoun
 esos, estos, aquellos - adjectives/pronoun if already mentioned
 ese, este, aquel - adjective/pronoun if already mentioned
 la cer\amica - pottery
@@ -1613,7 +1613,6 @@ la rabia - rage
 el recinto - precinct, enclosure, premises
 el mozo - waiter, busboy
 cuan - how (connector)
-es decir - that is to say
 fallecido - deceased
 la camilla - stretcher (medical)
 otros dos - two other (books)
@@ -1639,7 +1638,7 @@ sugerir - to suggest
 el contenido - content
 el turr\on - nougat
 crudo - raw (fish)
-el desagüe - drain, gutter
+el desag\\ue - drain, gutter
 el rascacielo - skyscraper
 humilde - humble
 la alegr\ia - joy
@@ -1651,19 +1650,18 @@ ocasionado por - caused by
 a ra\iz de - as a result of
 la estabilidad - stability
 recaudar fondos - to fundraise
-un taller - workshop
+el taller - workshop
 sumar esfuerzos - to join forces
 solo basta un clic - it only takes a click
 descargar archivos - to download files
 en cuesti\on de - in a matter of
-conllevar - to entail, carry
+conllevar - to entail, carry, involve
 el fiscal - district attorney
 el alcalde - mayor
 al parecer - apparently
 plantear - to propose, mention
 estar dispuesto a - to be willing to
 cuplable - guilty
-desviar - to divert
 vinculado - linked
 respaldar - to support
 la materia - field (of work), subject (class in uni)
@@ -1679,12 +1677,11 @@ por su parte - on their end
 la incertidumbre - uncertainty
 el v\inculo estrecho - close tie
 bajo su punto de vista - from your point of view
-la mano de obra - workforce
+la mano de obra - workforce (blue collar)
 sab\ia vs supe - I knew vs I found out
 pod\ia vs pude - I was in a position to vs I was able to and did
 quer\ia vs quise - I wanted to vs I tried to
 la sastrer\ia - tailor shop
-instar - to urge
 delantero - front
 la salvedad - disclaimer, proviso
 avergonzar - to embarrass
@@ -1734,7 +1731,7 @@ el mayordomo - butler
 mand\on\mandona - bossy
 el trineo - sled
 la estampilla - stamp (postage)
-el rasguño - scratch, scrape
+el rasgu\no - scratch, scrape
 el chich\on - bump (injury)
 el patito feo - ugly duckling
 evadir - to escape, evade
@@ -1766,14 +1763,13 @@ deprisa - quickly (drive)
 la secuela - lasting complication of disease, sequela
 el bast\on - walking stick
 escurrir - to drip (sweat), wring
-enloquecer - to get mad, go wild
 patas arriba - upside down
 jurar - to swear (in as president)
 hacer cola - to wait in line
 la cosecha - harvest
 el trueno - thunder
 el apret\on de mano - handshake
-cesto - bin (trash)
+el cesto - bin (trash)
 el nieto - grandchild
 el despacho - office
 costar ce\nirse - to be difficult to stick to (schedule)
@@ -1810,7 +1806,6 @@ el p\arroco - vicar
 la rueca - spinning wheel
 alentar - to encourage
 el hilo - thread
-la lana - wool
 el gusano - worm, maggot
 fregar - to scrub, mop
 el hu\erfano - orphan
@@ -1824,7 +1819,7 @@ tildado - branded (COVID diplomacy)
 el acercamiento - approach (political)
 veloz - speedy
 insumos - supplies
-el aislamiento  - isolation
+el aislamiento - isolation
 el auxilio - help
 apuntar - to point out
 el patr\on - pattern, master, boss
@@ -1843,7 +1838,7 @@ ojal\a - hopefully, if only
 la banda ancha - broadband
 el matiz - nuance
 el rodaje - filming, location
-arrancar - to tear, pull, extract
+arrancar - to tear, pull off (car), extract
 certera - accurate, certain
 el hallazgo - finding, find (scientific)
 abordar - to tackle, approach
@@ -1852,3 +1847,776 @@ la dimisi\on - resignation (president)
 el entierro - burial
 el ment\on - chin
 el secreto a voces - open secret
+cumplir la sentencia - to serve a prison sentence (not "servir" or "servir tiempo")
+el orden de cateo - arrest warrant
+la redada - raid (police)
+los rayos equis - X-rays
+depender de - to depend on
+valerse de - to rely on, use
+ni mucho menos - let alone
+el archivo adjunto - attached file (to email)
+sospechoso - suspicious
+la contrase\na - password
+hacer lo propio - to follow suit
+el acusado - defendant
+portar armas - to carry arms
+en aquel entonces - at that time
+en lo que va del a\no - so far this year
+presunto - alleged (kidnapper)
+el cuartel de la polic\ia - police station
+dotar - to endow
+felicitar - to congratulate
+recalcar - to emphasize
+la tercera dosis - COVID booster
+la convivencia - coexistence
+la vehemencia - impulsiveness, vehemence
+el desove - spawning
+la alima\na - vermin
+moscas - fly (bug), money
+contramano - wrong way, one-way, opposite side
+el cambalache - trade
+el sien - temple (head) 
+la salvedad - caveat
+sin parang\on - without equal
+albergar - to house, harbor
+el violador - rapist
+depurar - to purify
+acaparar - to hoard, hog
+sanear - to sanitize
+la cadena perpetua - life sentence
+engendrar - engender, generate, spawn
+la horca - gallows
+desfachatado - cheeky
+indecoroso - improper
+a mansalva - in abundance
+la mentira piadosa - white lie, "pious lie"
+el marido y la mujer - man and wife (not marida)
+gracioso - funny
+le atiende Andrea - Andrea speaking (phone call)
+\!C\omo no! - of course
+as\i es - that's right
+hospedar - to stay (at hotel)
+deletrarse - to be spelled
+la fecha de caducidad - expiration date
+caducar - to expire
+el delincuente - criminal
+esforzarse - to strive
+la sequ\ia - drought
+carecer de - to lack
+el enviado - envoy
+el fracaso - failure
+la escasez - scarcity
+alegar - to allege
+auspiciar - to sponsor
+velar por - to look after
+el cumplimiento de la ley - law enforcement
+el estafador - scammer
+la c\edula - identity card
+el cr\imen de odio - hate crime
+superar - to overcome
+reabrir - to reopen
+el pirata inform\atico - hacker
+desviar - to divert
+la escena del crimen - the scene of the crime
+la nube - cloud
+hacer preguntas - to ask questions
+cansar - to tire out, bore
+asegurar - to claim
+ADN - DNA
+los talones de pago - pay statement
+la declarac\ion de impuesto sobre la renta - declaration of income tax
+si, c\omo no - yes, of course
+pues la verdad - well, honestly
+levantar las sospechas - to raise suspicions
+traer vs llevar - to bring toward speaker vs away from speaker
+en todo caso - in any case
+la excusa - excuse 
+el corte - cut
+la corte - court
+Esta bueno. - It's tasty. (Not it's good)
+Esta bien. - It's good.
+la patrulla fronteriza - border patrol
+resultar - to turn out (to be Mexicans)
+gerenciar - to manage
+constatar - to verify
+de lleno - fully (dedicate oneself)
+mezclarse (entre) - to blend in (among refugees)
+jubilado - retired
+el altavoz - speaker (for TV)
+el hongo - mushroom
+la aceituna - olive
+la masa - crust (pizza)
+el descuento - discount
+la alita de pollo - chicken wing
+la portada - title page, cover (of newspaper)
+la rueda de prensa - press conference
+el papeleo - paperwork
+las aduanas - customs (tax)
+la pertenencia - belonging
+el lema - slogan
+encarecer - to rise in price
+los inmuebles - real estate
+el arrendatario - tenant
+incumplir - to fail to comply
+inal\ambrico - wireless
+el detector de humo - smoke detector
+el francotirador - sniper
+el vecindario - neighborhood (better than vecindad)
+\Erase un... - Once upon a time there was a...
+reconocido - well-known
+la mano del hombre - man-made
+el castigo - punishment
+la hoguera - bonfire
+avivado - stoked
+el desenlace - outcome
+contundente - overwhelming, convincing
+la senda - track, pathway
+acrecentar - to increase
+adelgazar - to slim down
+currar - to work
+el capricho - whim
+pu\netero - damn (adj)
+vertiginoso - dizzy
+calefacci\on - heating
+el bombero - firefighter
+emitir - to issue (passport)
+los delitos graves - big crimes (not largos)
+el portavoz - spokesman
+la orilla - shore, bank, edge, border
+el albergue - shelter, refuge, hostel
+intemperie - outdoor
+la esperanza - hope
+la espera - wait
+la sala de espera - waiting room
+sobrante - surplus, leftover (food)
+desayun\e vs he desayunado - I had breakfast (neutral) vs I had breakfast (close/important to me)
+tomar conciencia de - to become aware of
+la coberta universal - universal coverage
+el comportamiento - behavior
+sumamente - extremely (important)
+proyectos de diversa indole - of different sorts
+abarcar - to cover (culture covers)
+el convenio - agreement (with museum)
+la inquietud - concern (of the population)
+a lo largo de - thoughout
+lo ajeno - else's (other person's culture)
+la herencia - heritage
+la sucursal - branch office
+el af\an - eagerness
+no hay de qu\e - don't mention it
+las siglas - acronym
+el discurso - speech
+cabe mencionar - it's worth mentioning
+estimado - dear (letter)
+abordar - to address (a topic, not a group)
+el cierre - closing (of letter)
+el desv\io - detour
+el ascensor - elevator
+las comitivas - entourage
+la vigilancia - surveillance
+los antecedentes - background
+la gesti\on - effort
+le saluda cordialmente - warm regards
+me da igual - it doesn't matter to me
+lo antes posible - as soon as possible
+una vez que (termine el ...) - Once the ... (finishes...)
+como guste - as you like (subjunctive)
+apetecer (\?te apetece...?) - to crave, desire (coffee)
+si no es molestia - if you don't mind
+se ve bien - it looks good
+al menos - at least
+la azotea - rooftop
+en mente - in mind
+muy cargado - very strong (drink)
+sobrar - to remain, be left over
+la gesta - feat (of heroes)
+el pr\ocer - hero
+anta\no - yesteryear (heroes)
+enaltecer - to uplift (the nation)
+el hincapi\e - emphasis
+nutrir - to nourish
+mezquino - mean, petty, shabby
+el decreto - decree, order
+el antepasado - ancestor
+apaciguar - to appease, sooth
+los cimientos - foundation (of community)
+al + infinitive - upon (doing), by (doing)
+hab\ia estado - had been
+agradecer(le (a usted)) (su tiempo) - to appreciate, be thankful (to you) (for your time)
+la yerba - grass
+jaquear, hackear - to hack
+el \area - area
+la mordaza - jaw, gag (order)
+el l\imite - limit
+el sesgo - bias
+la prensa amarilla - sensationalist press
+sobresaliente - excellent (grade in school for A)
+el gui\on - hyphen, script (play)
+escrita - written (irregular pp of escribir)
+ojear - to glance quickly
+hojear - to thumb through
+Cuanto mas ... mejor - The more ... the better
+se me pone los pelos de punta - my hair stands on end
+la desnacionalizacion - denationalization, ie stripping of citizenship
+el ap\atrida - person without citizenship
+duradero - lasting, permanent (change)
+el canciller - chancellor
+recpolilar - to collect (data)
+embarazoso - embarassing
+enmarcar - to frame, concentrate on topic
+la ascendencia - ancestry
+Irlanda - Ireland
+la concesi\on - concession, granting (of visas)
+el af\an - eagerness
+el escrutinio - scrutiny
+endurecer - to toughen (regulations)
+distraer - to distract
+la acogida - welcome, reception (of migrants)
+recabar - to collect (ideas)
+el criollo - creole
+citar - to cite
+el conteo - count (of people, votes)
+confiar en - to trust
+clase media - middle class
+Ellos se burlan de mi. - They make fun of me.
+incautar - to seize (police)
+el cabecilla - leader (often of criminals)
+el narcomenudeo - selling drugs (in street not big drug deals)
+la narcomanta - banner with threat to other narcos
+la sobredosis - overdose
+controvertible - controversial
+la filantropia - philanthropy
+bajo la mesa - under the table
+ends in n, s, or vowel - accent on second to last
+ends in NOT n, s, or vowel - accent on last
+-ia vs -\ia, ya vs ee-a
+la ladera - foot of the mountain
+ser correcto - to be polite (not necessarily correct)
+estar en lo correcto - to be correct
+sin ton ni son - without rhyme or reason
+afanar - to rob, rush (not to be eager)
+siento que vs me siento - I feel that vs I feel (sad)
+el c\onyuge - husband
+paulatino - gradual (expansion)
+La oficina de Aduanas y protecci\on fornteriza - CBP
+desestimar - to reject, disesteem
+manosear - to handle, tamper, paw
+trozar - to chop
+desconocer - to ignore
+abonarse - subscribe
+disfrazado - disguised
+burlar(se) - to outwit (make fun of)
+arropar - to clothe
+el traje - costume
+teñir - to dye
+la talla - size
+el timador - swindler
+el embaucador - trickster
+desbordar - to flood, overflow
+el elogio - praise
+at\onita - stunned, amazed
+el s\ubdita - subject (of rulter)
+derrochar - to waste
+la soberbia - pride, arrogance
+consecuci\on - acheivement
+habilitar - to enable
+sagrado - sacred
+lucir - shine, display
+resquebrajarse - to crack
+grueso - thick
+blindar - to armor, shield
+estropear - spoil, damage
+el asedio - siege
+estancar - to stagnate
+arrastrar - to drag, draw, pull
+vengarse - to take revenge
+la araña - spider
+encoger - to shrink (forest)
+el nido - nest
+adaptarse - to fit in
+ahogarse - to drown
+asimilarse - to assimilate
+el abandono - neglect
+el asilo - asylum
+el campamento de refugiados - refugee camp
+el choque cultural - cultural shock
+el permiso de residencia - residence permit
+el permiso de trabajo - work permit
+el prejuicio - bias
+el so\nador - dreamer
+el racista - racist
+la exenci\on - waiver
+la oleada - wave
+la patrulla fronteriza - border patrol
+la tortura - torture
+naufragar - to be shipwrecked
+refugiarse - to take refuge
+reunir los requisitos - to meet the requirements
+el crisol - melting pot
+dar la bienvenida - to welcome
+el cupo - capacity
+el hogar de acogida temporal - foster care home
+el cargamento - shipment
+el crimen - crime
+el sicario - hitman
+drogarse - to take drugs
+el cultivo - crop
+enga\nar - to deceive
+la mula - mule
+la venganza - revenge
+vigilar - to monitor, surveil, police
+la despenalizaci\on - decriminalization
+el pandillero - gang member
+la Agencia Antidrogas/la DEA - DEA
+el contrabando - smuggling
+el mercado negro - black market
+el indulto - pardon
+inaudito - unheard (of)
+esparcir - to spread (disinformation)
+el accionista - shareholder
+el lineamiento - guideline
+agravar - aggravate (situation)
+circundante - surrounding
+saborear - to savor
+el alambre de p\uas - barbed wire
+sonor como - to sound like
+Lo primero que quiero decir es... - The first thing I want to say is...
+preterite + que iba + verb - said/thought that was going to
+ser bueno/malo, estar bien/mal - to be good/bad
+el sorteo - lottery, drawing
+Eso es todo. - I'm done speaking.
+esperar que + subjunctive - I hope...
+poner - put (on), (meter for put in)
+la m\aquina vendadora - vending machine
+la caja fuerte - safe (money)
+entrar a/en (never without) - to enter
+ser/estar aburrido - boring/bored
+DDHH - human rights
+Por favor tome asiento y espere su n\umero. - Please take a seat and wait for your number.
+el pandillero - gang member
+incidir - to influence
+desaprovechar - waste
+desenfrenado - unbridled, unchecked
+socavar - to undermine
+indebido - improper, undue
+Hagalo as\i. - Like this (not como as\i)
+hacer dinero - to make money (not only ganar)
+transbordar - to transport
+en carne propia - first-hand
+la mira - sight, aim
+decomisar - to confiscate
+llegar de/en - to arrive (never llegar a)
+el alba\nil - construction worker
+manco - lacking, one-armed
+precavido - cautious
+cauteloso - cautious
+la marejada - surge
+poner en jaque a - to put in check
+pendenciero - tough, rowdy
+trasiego - racking
+otrora - once (adj)
+el peluquero - hairdresser
+fletado - chartered
+el impresor - printer
+mejor dicho - phrase to correct yourself
+demasiado - too much (not with mucho!)
+de acuerdo de la ley - in accordance with the law
+adicto - addicted
+Hait\i - Haiti 
+millones - milliones
+el s\uper taz\on - Super Bowl
+allanar - to pave, smooth
+el reo - inmate
+desterrar - to ban, banish
+las estupefacientes - narcotics
+darse abasto - to cope, handle
+la fachada - facade
+estar en paro - to be on strike
+comienza el calvario - the ordeal begins
+la moraleja - the moral
+el comedor de beneficencia - soup kitchens
+la carne de canon - cannon fodder
+la ama de casa - housewife
+discubrir - to discover, find out
+hacer mal tiempo - bad weather
+casero - homemade
+ir de traje - to go formally dressed (to party), go bringing (food to party)
+Es una l\astima que + subjunctive - It's a shame that... (any feeling + subjunctive)
+pensar hacer - to plan to do
+pensar en -  to think about (not sobre!)
+pensar que - to think that
+\?Que piensas sobre...? - What do you think about...? (sobre only if question)
+militar - military (adj)
+el vertido - spill, leak
+el litoral - coast
+esparcir - to spread, scatter
+Resulta que... - It turns out that...
+claudicar - to give up, falter
+desmayar - to lose heart, faint
+añorar - to long for
+sepultar - to bury
+el mel\omano - music lover
+la partitura - (musical) score
+perder de vista - to lose sight of
+encasillar - to classify, categorize
+un centenar de - a hundred of
+desfasado - out of phase
+sesgado - slanted
+avalar - endorse
+dejar claro que - to make clear that
+el \indice - the index
+la apertura - the opening
+constatar - to note, confirm, verify
+arrojar - to throw (trash), cast, dump
+padecer de - to suffer
+a raíz de - as a result of, in the wake of
+el rompecabezas - puzzle
+costar un ojo de caro - to cost an arm and a leg
+la difusi\on - spread
+tan adj...como - as adj as
+tanto noun...como - as much noun as
+tantos noun...como - as many noun as
+aprender (a hacer) - to learn (to do)
+el alem\an - German person
+estudiar (ingl\es) - to study (English - not article)
+los suburbios - slums (not suburbs)
+naturalizarse - to naturalize (citizenship)
+licencia de manejo - driver's license
+humildemente - humbly
+la persona de mayor edad - older person
+absorber - to absorb
+la vereda - sidewalk
+el peat\on - pedestrian
+rozar - to touch, rub
+recelar - to fear
+menos mal - luckily
+la hora pico - rush hour
+doblar - to turn, fold
+gozar - to enjoy
+marcar - to dial, mark
+tener celos - to be jealous
+tener envidia - to be envious
+tener la palabra - to have the floor
+tener rabia - to be very angry
+tener verg\\uenza - to be ashamed
+el ocio - moment of relaxation
+cara a cara - face to face, speaking frankly
+la sensaci\on - feeling (of insecurity) (not sentido)
+creer + present/no creer + subjunctive - to believe/not believe
+todo el tiempo - all the time
+ata\ner - to concern
+\?Qu\e es...? - What is...? (defining a thing, not saying which one)
+cual(es) (de) - which (of many which we know)
+\?Cual es...? - What/which is...? (any time with is when not defining)
+tanto...como - both...and, as much...as
+de esta manera - in this way (not en)
+tener mas de lo que necesita - to have more than needed
+filmar - to film
+el salvavidas - life guard, life jacket, floating ring
+potenciar - to enhance
+saquar - to sack, loot
+el saqueo - sacking (of city)
+el auge - boom (econ), rise
+el zumbido - buzz (of insect)
+a la intemperie - outdoors
+el mat\on - bully
+el aval - endorsement, guarantee
+espeluznado - creepy
+la matanza - killing (of journalist)
+tenebroso - dark, gloomy
+imprevisible - unpredictable
+el relevo - relay
+la tozudez - stubborness
+la astucia - cunning
+suplir - to supply
+picar - to sting, bite
+empu\nar - to wield, take up, grasp
+el etarra - ETA member (terrorist group)
+temblar - to tremble
+el valent\on - bully
+presumir - to show off
+el alarde - boast
+la fanfarronada - bluff, bluster
+ponderado - weighted, balanced
+Si yo tuviera dinero, comprar\ia el libro. - 2 conditional: imaginary situations
+Si yo tengo dinero, comprar\e el libro. - 1 conditional: future
+Si yo tengo dinero, compro el libro. - 0 conditional: facts
+Ustedes hablan como si fueran nativos. - You guys talk like natives.
+Ustedes hablaban como si hubieran sido natives. - You guys were talking like natives.
+la articulaci\on - joint
+la barba - beard
+la barbila - chin
+la cadera - hip
+la ceja - eyebrow
+el codo - elbow
+la columna - spine
+el dedo de pie - toe
+las enc\ias - gums
+la frente - forehead
+la mu\neca - wrist
+el muslo - thigh
+las nalgas - butt
+la nuca - nape
+el o\ido - inner ear
+la oreja - ear
+el p\arpado - eyelid
+la pesta\na - eyelash
+la quijada - jaw
+los senos - breats
+el tal\on - heel
+el tobillo - ankle
+el am\igdala - tonsil
+la costilla - rib
+el h\igado - liver
+el m\usculo - muscle
+los humedales - wetlands
+el pantano - swamp
+apropriado - appropriate
+animar - to encourage
+agostar(se) - to scorch, to burn out
+la degollina - slaughter
+desde\nar - to disdain
+el levantamiento - uprising
+imparable - unstoppable
+en franca rebeld\ia - in open rebellion
+abocado - doomed
+el tostadero - the roaster
+la sensatez - sanity
+imprevisible - unpredictable
+la soberan\ia - sovereignty
+cosechar - to harvest
+arrepentirse - to regret
+el s\intoma - symptom
+estar a la vuelta de la esquina - to be around the corner
+el m\usico - musician (not singer)
+el cantante - singer
+Yo la comprendo. - I understand you. (formal, woman)
+tener la oportunidad de - to have the opportunity to (always with de)
+la amonestaci\on - warning, admonishment
+estrenar - to launch, use for the first time
+el aporte - input
+tejer - to knit, weave
+los pr\estamos estudiantiles - student loans
+la enmienda - ammendment
+la investidura - presidential inauguration
+la pascua - easter
+la propina - tip
+la pulgada - inch
+el usuario - user
+el pretexto - excuse
+el cocodrilo - crocodile
+hazarse al apurado para - to be in a rush to
+el arma mala/las armas malas - weapon/weapons
+enjuiciar - to sue
+veros\imil - plausible
+un poco de - a little bit (always with de!)
+aniquilar - to annihilate
+ajenos - outside (country), alien
+las represalias - reprisals
+el miramiento - consideration
+de por s\i - in itself
+aprehender - to aprehend
+abanderarse - to abandon (something yourself, not be abandoned)
+Creyo que es bonito. - I think it's beautiful.
+No creyo que sea bonito. - I don't think it's beautiful.
+\?Creyes que es/sea bonito? - Don't you think/do you think it's beautiful? (certain/uncertain of fact)
+avergonzarse - to embarass oneself
+el ensayo - essay, test (of vaccines)
+el conciudadano - fellow citizen
+en torno a - around
+oprimir - to press, oppress
+el agravio - greivance
+lamer - to lick (dog)
+el remolque - trailer (mobile home)
+por consiguiente - consequently
+dado (que) - given (that (the facts are unknown))
+inmiscuirse en - to interfere in (country in intl politics)
+el vicio - addiction, vice
+perdon que te cambie de tema - excuse me for changing subjects
+a ver - let's see
+cuanto mas mayor es mejor - the older the better
+tosco - rough, crude
+asomarse - to lean out
+el durazno - peach
+el emparedado - sandwich
+sobrar - to be left over
+la sart\en - pan, frying pan
+el tocino - bacon
+repartir - to distribute, pass out (magazines)
+el frasco - jar
+soltar - release, let out (bugs from jar)
+el buz\on - mailbox
+escupir - spit
+la carencia - lack
+el fraile - friar
+a este velocidad - at this speed
+criar - to raise (animals)
+dejar la biber\on - to give up the bottle (corruption money)
+el esfuerzo - effort
+adinerado - wealthy
+pudiente - wealthy
+los militares - soldiers (professional)
+los soldados - soldiers (drafted not professional)
+realista - realistic
+la pocilga - pigsty, mess
+que se divierta - have fun
+la arma blanca - knife
+prender - to turn on (light), to pin on (flower to shirt)
+en realidad - actually (better than de verdad)
+la cortina de humo - smokescreen
+estar al acecho - to be on the lookout, lurk
+arruinarse - to break (stop working, not break in half)
+de igual modo - similarly
+de igual manera - similarly
+cuando + subjunctive (never cuando + future) - when I will
+desalojar - to evict, dislodge
+la patota - gang
+complacido - pleased
+c\omplice - complicit
+ajena a - a stranger to
+el auge - the boom
+el trasfondo - the background
+sine qua non - essential
+sui generis - distinctive, unusual
+arremeter contra - to lash out against, attack
+censar - to register
+los aportes - contributions
+la d\adiva - gift, alms
+ama\no - manually
+ocho cientos de millones de personas - 800 million (both plural, cientos if masculine)
+2,345,678 personas - 2,345,678 people (no de if number not round)
+two hundred and fity - dos cientos cincuenta (no y)
+por la ma\nana - in the morning
+la nodriza - nanny
+manejar biciclete - ride bike (better than montar)
+el ajedrez - chess
+sitios web - websites
+el cerco - fence
+la im\agen - image
+radicar - to legalize (documents)
+radicarse - to live in, settle down
+no creyo tener (not no creyo que yo tenga) - I don't think I have
+el gallinero - chicken coop
+ir en metro - to go by metro (always for transpotation)
+aprender a - to learn (to cook)
+aprender de - to learn from (my mistakes)
+enterarse - to find out (about the accident that just happened)
+pasar tiempo - to spend time
+da\nino - damaging (never da\noso)
+yo que tu - if I were you
+el candado - padlock
+estar atrasado (not estar tarde) - to be late
+Le dije que estar\ia atrasado. - I told him I'd be late. (past future)
+saber nadar - to know how to swim
+limosna - alms, charity
+el chucho - dog, mutt
+la cesta - basket (shopping)
+la estanter\ia - bookshelf 
+mimado - spoiled (dog)
+la bolita - pellet (of food)
+el pienso - feed
+lerdo - dumb
+aborrecer - to hate
+la tenencia - tenure, possession, occupation
+el carn\e - license (driving)
+peinarse - to comb (onself)
+despilfarrar - to squander
+el vástago - offspring, descendent
+la locura - madness, insanity
+osar - to dare
+todxs (pronounced todes) - everyone
+no me cabe la menor duda - I don't have the least doubt
+juntarse (con amigos) - to get together (with friends)
+se volv\io normal - it became normal (for people to do that)
+volver - to go back (less formal than regresar)
+con el tiempo - over time
+el bomb\on - marshmallow, chocolate
+el malvavisco - marshmallow
+el debe de estar aqu/i - he must be here (I conclude)
+que tan/cuan - how + adj
+enamorarse con - to fall in love with
+hasta hace un tiempo - until not long ago
+esperar con ganas - to look forward to
+igual - perhaps (less formal than quiza)
+a lo mejor - maybe
+tal vez/quiza(s) + indicative/subjunctive - maybe
+la milla - mile
+empezar (a hacer) - to start (to do)
+hacer hincapi\e - to emphasize
+beber - to drink (alcohol, tomar if not)
+apretar - to squeeze, tighten
+sellar - to seal
+me parta un rayo - lightning strikes me
+el arroyo - stream, creek
+echarse - to lie down (dog)
+jalar - to pull
+el alambre - wire
+incorporarse - to sit up, incorporate
+podrido - rotten
+el pedacito - bit (of food)
+el grillo - cricket
+tenso como un grillo - tense as a cricket
+ronronear - to purr
+el ingenio - ingenuity, wit
+se me hizo tarde - I'm late
+de lejos - from far
+rebasar - to pass (in traffic)
+sacar en limpio - to clean up (also conclude discussion)
+el felpudo - doormat
+la resaca - hangover
+el ave (fem) - poultry bird (chicken is not bird)
+el sector de la salud - healthcare industry (not indstria)
+rico - rich (money), delicious (not rich food)
+el paraguas - umbrella
+Juan le recomienda el m\edico al abogado. - Juan recommends the doctor to the lawyer. (no personal a on DO)
+Juan recomienda al m\edico. - Juan recommends the doctor.
+colmo de colmos - worst of the worst
+un/el/esta arma - a/the/this weapon (only article is different)
+la sandia - watermelon
+el durazno - peach
+el melocot\on - peach
+hacer la vista gorda - to look the other way
+medio d\ia - lunchtime (not necessarily noon!)
+por la ma\nana - in the morning (never en la ma\nana)
+tendir (a hacer) - to tend (to do)
+OVNI - UFO
+la nave - spaceship
+las alien\igenas - aliens (space)
+abordar - to address (political issues)
+el trabajo - labor (not la labor)
+Yo me pelo el pelo. - I cut my hair. (not Yo corto mi pelo.)
+Yo tir\e la copa. - I dropped the glass (on purpose).
+Se me cay\o la copa. - I dropped the flass (not on purpose).
+ca\ersele la baba - to drool (from admiration) (not on purpose)
+controvertido - controversial
+el delincuente - criminal (not criminal)
+el criminal - murderer (not general criminal)
+Because... - Como... (can't start with porque)
+en los \ultimos 10 a\nos - in the last 10 years
+vedar - to ban
+el tejido cultural - the cultural fabric/network
+cortar el c\esped - to mow the lawn
+la madrastra - stepmother
+dom\estico - of the home (not of the country or flight)
+la rencilla dom\estica - domestic disturbance
+el d\ia de por media - every other day
+el formulario - form (not forma)
+la exenci\on - waiver (visa)
+las habichuelas - black beans (in DR)
+el reto\no - sprout, offpsring of person
+apechugar - to bear, deal with, lit "to chest"
+la calidez - warm
+la sesera - brain
+embelesado - spellbound
+desasosegante - unsettling
+el ocio - lesiure
+la tropilla - herd, group of people
+el barullo - hubbub
+la muchedumbre - crowd, mob
+amontonado - heaped, piled up
+la planta baja - downstairs
+para esta tarde - by this afternoon (deadline)
+para lo mucho que come - for how much he eats (he's not fat)
+por un a\no - for a year
+por - because of (an emergency we were late)
+por aqu\i - around here, through here
